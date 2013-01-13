@@ -1,4 +1,4 @@
-cURL Class
+CurlWrap
 ==========
 
 This is a wrapper class I wrote AGES ago to make using cURL a little nicer. 
